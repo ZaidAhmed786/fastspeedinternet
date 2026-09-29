@@ -220,6 +220,16 @@ h6,
     }
 }
 
+@media (max-width: 575.98px) {
+    .navbar-brand {
+        white-space: normal;
+    }
+
+    .navbar-brand h1 {
+        font-size: 1.5rem;
+    }
+}
+
 @media (min-width: 992px) {
     .navbar .nav-item .dropdown-menu {
         display: block;
